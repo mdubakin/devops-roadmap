@@ -27,6 +27,19 @@
 
 ### Материалы по C
 
+| Тип | Название | Ссылка |
+| --- | --- | --- |
+| Курс | Stepik. Основы программирования на языке Си в Linux | <https://stepik.org/course/98359/info> |
+| Курс | Stepik. Основы программирования на C. Задачи | <https://stepik.org/course/3078/info> |
+| Курс | Stepik. Программирование на C и выполнение программ | <https://stepik.org/course/73618/info> |
+| Курс | Harvard. CS50 | <https://cs50.harvard.edu/x/2023/> |
+| Лекции | Тимофей Хирьянов. Курс молодого бойца Си | <http://cs.mipt.ru/c_intro/> |
+| Лекции | Сергей Балакирев. Язык Си | <https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz> |
+| Книга | Сикорд Роберт С. Эффективный C. Профессиональное программирование | <https://www.piter.com/collection/all/product/effektivnyy-c-professionalnoe-programmirovanie> |
+| Книга | Прата, Стивен. Язык программирования С. Лекции и упражнения | <https://www.williamspublishing.com/Books/978-5-907114-14-2.html> |
+| Книга | Амини Камран. Экстремальный Cи. Параллелизм, ООП и продвинутые возможности | <https://www.piter.com/collection/all/product/ekstremalnyy-ci-parallelizm-oop-i-prodvinutye-vozmozhnosti> |
+| Книга | Прешерн К. Язык С. Мастерство программирования. Принципы, практики и паттерны | <https://dmkpress.com/catalog/computer/programming/c/978-6-01810-340-7/> |
+
 ### Материалы по Golang
 
 ## II. База ОС Linux
