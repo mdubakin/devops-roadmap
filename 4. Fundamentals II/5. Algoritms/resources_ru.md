@@ -1,0 +1,15 @@
+# Ресурсы для изучения алгоритмов
+
+- Курс | [Добрые, добрые структуры данных с Сергеем Балакиревым](https://stepik.org/course/134212)
+- Курс | [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
+- Курс | [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
+- Курс | [Лекции и задания от Яндекса по алгоритмам](https://yandex.ru/yaintern/algorithm-training)
+- Книга | Бхаргава А. [Грокаем алгоритмы](https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2)
+- Книга | Венгроу Д. [Прикладные структуры данных и алгоритмы](https://www.piter.com/collection/all/product/prikladnye-struktury-dannyh-i-algoritmy-prokachivaem-navyki)
+- Книга | Такфилд Б. [Алгоритмы неформально](https://www.piter.com/collection/all/product/algoritmy-neformalno-instruktsiya-dlya-nachinayuschih-pitonistov)
+- Книга | Зингаро Д. [Алгоритмы на практике](https://www.piter.com/collection/all/product/algoritmy-na-praktike)
+- Книга | Альтхофф К. [Computer Science для программиста-самоучки](https://www.piter.com/collection/all/product/computer-science-dlya-programmista-samouchki-vse-chto-nuzhno-znat-o-strukturah-dannyh-i-algoritmah)
+- Книга | Спрингер В. [Гид по Computer Science для каждого программиста](https://www.piter.com/collection/all/product/gid-po-computer-science-dlya-kazhdogo-programmista)
+- Книга | Фило В. [Теоретический минимум по Computer Science](https://www.piter.com/collection/all/product/teoreticheskiy-minimum-po-computer-science-vse-chto-nuzhno-programmistu-i-razrabotchiku)
+- Задачник | [Leetcode](https://leetcode.com/)
+- Задачник | [Codewars](https://www.codewars.com/)
